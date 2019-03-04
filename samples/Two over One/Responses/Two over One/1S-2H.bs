@@ -1,0 +1,26 @@
+North [
+	
+	"HCP": "11-19"
+	"Spades": "5-8"
+	
+	!{
+		"HCP": "11"
+		"Spades": "5"
+	}
+	
+	!{
+		(
+			"HCP": "15-17"
+			"HCP": "20-21"
+		)
+		
+		"Balanced": "True"
+	}
+]
+
+South [
+	
+	"HCP": "12-37"
+	"Spades": "0-3"
+	"Hearts": "5-7"
+]
