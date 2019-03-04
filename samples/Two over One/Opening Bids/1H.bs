@@ -2,15 +2,11 @@ North [
 	
 	"HCP": "11-21"
 	"Spades": "0-4"
-	"Hearts": "5-8"
+	"Hearts": "5-13"
 	
 	!{
 		"HCP": "11"
-		
-		(
-			"Hearts": "0-5"
-			"Hearts": "7-13"
-		)
+		"Hearts": "0-5"
 	}
 	
 	!{

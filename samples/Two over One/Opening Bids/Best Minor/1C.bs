@@ -1,0 +1,33 @@
+North [
+	
+	"HCP": "11-21"
+	"Spades": "0-4"
+	"Hearts": "0-4"
+	
+	(
+	
+		{
+			"Diamonds": "0-3"
+			!"Shorter": "Clubs" < "Diamonds"
+		}
+		
+		{	
+			"HCP": "16-21"
+			"Longer": "Clubs" > "Diamonds"
+		}
+	)
+	
+	!{
+		"HCP": "11"
+		"Clubs": "0-5"
+	}
+		
+	!{
+		(
+			"HCP": "15-17"
+			"HCP": "20-21"
+		)
+		
+		"Balanced": "True"
+	}
+]

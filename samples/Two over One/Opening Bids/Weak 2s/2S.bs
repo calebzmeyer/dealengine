@@ -1,0 +1,8 @@
+North [
+	
+	"HCP": "5-10"
+	"Spades": "6"
+	"Hearts": "0-3"
+	"Diamonds": "0-4"
+	"Clubs": "0-4"
+]

@@ -4,13 +4,21 @@ North [
 	"Spades": "0-4"
 	"Hearts": "0-4"
 	
+	(
+		{
+			!"Diamonds": "0-3"
+			!{
+				"HCP": "16-21"
+				"Shorter": "Diamonds" < "Clubs"
+			}
+		}
+		
+		"Longer": "Diamonds > Clubs"
+	)
+	
 	!{
 		"HCP": "11"
-		
-		(
-			"Diamonds": "0-5"
-			"Diamonds": "7-13"
-		)
+		"Diamonds": "0-5"
 	}
 	
 	!{
@@ -21,13 +29,4 @@ North [
 		
 		"Balanced": "True"
 	}
-	
-	(	
-		{
-			"Diamonds": "3"
-			"Clubs": "2"
-		}
-		
-		"Diamonds": "4-9"
-	)
 ]
