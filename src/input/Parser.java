@@ -239,7 +239,8 @@ public class Parser {
 		}
 		
 		else {
-			range[0] = Integer.parseInt(rangeStr.split("-")[0]);
+			
+			range[0] = Integer.parseInt(rangeStr);
 			range[1] = range[0];
 		}
 		
